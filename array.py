@@ -26,5 +26,7 @@ while True:
 
     print("Hello Tushar")
 
+    print("Hello Tushar")
+
 
     
