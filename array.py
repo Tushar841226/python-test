@@ -22,4 +22,9 @@ while True:
         print(A[current])
         break
     current=next_index
-    right = not right
+    right = not left
+
+    print("Hello Tushar")
+
+
+    
